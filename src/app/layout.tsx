@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://pythasoft.vercel.app/cover.png",
+        url: "https://pythasoft.vercel.app/cover-new.png",
         width: 1200,
         height: 630,
         alt: "Phythasoft cover",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "🌱 Rejoignez Phythasoft et changez votre avenir !",
     description: "Formations pratiques en création de sites, bureautique et design, accessibles même aux débutants. Inscrivez-vous gratuitement !",
-    images: ["https://pythasoft.vercel.app/cover.png"],
+    images: ["https://pythasoft.vercel.app/cover-new.png"],
   },
 };
 

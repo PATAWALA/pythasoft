@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Phythasoft - Formations pratiques et accessibles pour tous",
   description: "Inscrivez-vous dès maintenant aux formations Phythasoft : développement web, mobile, bureautique et design graphique, même sans expérience.",
-  openGraph: {
+  openGraph: {                   
     title: "🌱 Rejoignez Phythasoft et changez votre avenir !",
     description: "Formations pratiques en création de sites, bureautique et design, accessibles même aux débutants. Inscrivez-vous gratuitement !",
     url: "https://pythasoft.vercel.app",
@@ -53,3 +53,4 @@ export default function RootLayout({
     </html>
   );
 }
+

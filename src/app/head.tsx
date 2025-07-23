@@ -13,7 +13,7 @@ export default function Head() {
         property="og:description"
         content="Formations pratiques en création de sites, bureautique et design, accessibles même aux débutants. Inscrivez-vous gratuitement !"
       />
-      <meta property="og:image" content="https://pythasoft.vercel.app/canva.png" />
+      <meta property="og:image" content="https://pythasoft.vercel.app/cover-new.png" />
       <meta property="og:url" content="https://pythasoft.vercel.app" />
       <meta property="og:type" content="website" />
 
@@ -24,7 +24,7 @@ export default function Head() {
         name="twitter:description"
         content="Formations pratiques en création de sites, bureautique et design, accessibles même aux débutants. Inscrivez-vous gratuitement !"
       />
-      <meta name="twitter:image" content="https://pythasoft.vercel.app/canva.png" />
+      <meta name="twitter:image" content="https://pythasoft.vercel.app/cover-new.png" />
     </>
   );
 }
